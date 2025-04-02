@@ -82,6 +82,17 @@
 # print(mylist)
 
 # Sorts list in ascending order
-mylist = [44,22,77,0,9,88]
-mylist.sort()
-print(mylist)
+# mylist = [44,22,77,0,9,88]
+# mylist.sort()
+# print(mylist)
+
+# Descending order
+# mylist = [44,22,77,0,9,88]
+# mylist.sort(reverse=True)
+# print(mylist)
+
+# Alising==> assigning one variable reference to another variable
+# mylist = [1,2,3,4,7,8,9]
+# newlist = mylist
+# print(id(mylist))
+# print(id(newlist))
