@@ -1,0 +1,44 @@
+type python in terminal
+
+and use the terminal as computational platform
+
+used for testing
+like 2+2
+
+#modules
+Code Which is already written
+
+python having lot of modules
+
+1)
+import os
+os.getcwd()
+
+getcwd() is a method
+
+2)
+for c in "chai":
+    print(c)
+
+==> c h a i
+
+3) 
+import sys
+sys.platform
+
+==>win32
+
+4) import Hello_World
+
+Hello_World.name("mint tea")//method
+mint tea
+
+
+ from importlib import reload
+>>> reload(Hello_World)//for relaoding module
+Hello,World!
+Chaitanya
+36
+<module 'Hello_World' from 'U:\\Python\\Basics\\Hello_World.py'>
+>>> Hello_World.chai_one                
+'lemon tea'

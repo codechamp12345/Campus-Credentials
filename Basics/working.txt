@@ -1,0 +1,24 @@
+python interpreter==> program ==> it executes instructions
+
+python generates Byte Code
+__pycache__ is a Byte Code
+for importing case python will generates __pycache__ 
+
+python doens't generates __pycache__  for top files
+
+#python byte code going to VM 
+
+#python Code ==>compile down into ==> Byte Code (Platform Independent)
+
+# .pyc is compiled python 
+byte code is faster than script
+
+
+
+PVM==> python virtual machines
+line by line execution ==> interpreter
+
+PVM is runtime engine
+
+
+
