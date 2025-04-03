@@ -1,0 +1,5 @@
+Binary Files:
+Imagefile,video ,audio etc.
+open()
+read()
+write()
