@@ -61,4 +61,10 @@ git clone https://github.com/codechamp12345/Campus-Credentials
 - Reading and writing files
 - CSV and JSON files
 
+# Python Course
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Description
+This is a comprehensive Python course designed for beginners and intermediate learners.
 
