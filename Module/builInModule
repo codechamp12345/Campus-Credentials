@@ -1,0 +1,9 @@
+import math
+print(math.sqrt(4))
+
+from math import*
+print(int(sqrt(4)))
+print(ceil(10.1)) #11
+print(floor(10.1)) # 10
+print(fabs(-10.6)) #negative value makes +ve
+print(fabs(10.6)) #10.6
