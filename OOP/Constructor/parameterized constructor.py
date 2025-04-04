@@ -34,19 +34,20 @@
 #         self.s_rollno = 1001
 
 
+
 #declaring instance variable inside a instancxe method by using self variable
 
-class Student:
-    def __init__(self): #constu=ructor
-        self.s_name = "Chaitanya"
-        self.s_rollno = 1001
-        self.branch = "CSE"
+# class Student:
+#     def __init__(self): #constu=ructor
+#         self.s_name = "Chaitanya"
+#         self.s_rollno = 1001
+#         self.branch = "CSE"
 
-    def getdata(self): #instance method
-        self.s_mb = 9898079787 #instance variable
+#     def getdata(self): #instance method
+#         self.s_mb = 9898079787 #instance variable
 
-obj = Student() #until and unless we call the method it will not execute
-#obj.getdata()
-print(obj.__dict__)
-print(obj.s_mb)
+# obj = Student() #until and unless we call the method it will not execute
+# #obj.getdata()
+# print(obj.__dict__)
+# print(obj.s_mb)
 
