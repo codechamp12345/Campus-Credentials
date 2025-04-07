@@ -1,0 +1,24 @@
+#Data Structure and Algorithms in Python
+What is Data Structure?
+=> DS are differnt way of organizing data on your computer,that can be used effectively
+
+Algorithm: Step by Step Instructions to solve the problem
+
+1) Correctness and Efficiency
+
+Input ==> Processing ==>Output
+
+Linear and Nonlinear DS
+
+                            Data Structure
+                            
+primitive                           non primitive
+                     Linear                                  Non Linear
+Integer             Array                                       Tree
+Float                                                           Graph
+
+
+
+
+
+                             
